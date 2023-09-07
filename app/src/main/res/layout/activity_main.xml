@@ -61,7 +61,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginTop="7dp"
             android:fontFamily="@font/inter_thin"
-            android:text="Ikeja, Lagps, NG"
+            android:text="Ikeja, Lagos, NG"
             android:textColor="#B6B6B6"
             android:textSize="14sp"
             app:layout_constraintStart_toEndOf="@+id/imageView2"
@@ -152,5 +152,6 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
